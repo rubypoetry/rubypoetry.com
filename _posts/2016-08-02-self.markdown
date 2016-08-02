@@ -6,3 +6,6 @@ categories: meta
 ---
 
 This is the beginning of something beautiful.
+
+A little place on the Internet where we spend some time to display Ruby's
+elegance.
